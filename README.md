@@ -1,6 +1,6 @@
 # Certificados
 
-## **BRISA - Softex:**
+## **BRISA - Softex**
 
 [Residência em TIC - Nivelamento](./BRISA%20-%20SOFTEX%20-%20PREFEITURA%20DE%20BOA%20VISTA/nivelamento-residencia-em-tic.pdf)
 
