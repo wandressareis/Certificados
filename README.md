@@ -1,17 +1,17 @@
-<h1> Certificados 🗃️</h1>
+## Certificados 🗃️
 
 
-## 🖇️ __BRISA - Softex__ 
+#### 🖇️ __BRISA - Softex__ 
 
 [Residência em TIC - Nivelamento](./BRISA%20-%20SOFTEX%20-%20PREFEITURA%20DE%20BOA%20VISTA/nivelamento-residencia-em-tic.pdf)
 
-## 🖇️ __SAMSUNG OCEAN - AM__ 
+#### 🖇️ __SAMSUNG OCEAN - AM__ 
 
 [Jornada FullStack - Parte 1](./SAMSUNG%20OCEAN%20-%20MAO/samsung-ocean-jornada-fullstack-parte1.pdf)
 
 [Jornada FullStack - Parte 2](./SAMSUNG%20OCEAN%20-%20MAO/samsung-ocean-jornada-fullstack-parte2.pdf)
 
-## 🖇️ __UFRR__
+#### 🖇️ __UFRR__
 
 [Feira de Soluções Setoriais](./UFRR/feira-de-solucoes-setoriais-ufrr.pdf)
 
