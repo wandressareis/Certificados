@@ -18,3 +18,7 @@
 [Monitoria de Informática - Operação Acolhida](./UFRR/operacao-acolhida-monitoria-informatica.pdf)
 
 [Desafio de Banco de Dados - Projeto de Extensão](./UFRR/proj-extensao-desafio-bd.pdf)
+
+[Certificação Profissional Teórica Básica em IA - ABCIA](./UFRR/certificacao-profissional-abcia.pdf)
+
+[Declaração de Conclusão do Projeto de Residência em TIC - ABCIA](./UFRR/declaracao-conclusao-abcia.pdf)
