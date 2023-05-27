@@ -11,6 +11,8 @@
 
 [Jornada FullStack - Parte 2](./SAMSUNG%20OCEAN%20-%20MAO/samsung-ocean-jornada-fullstack-parte2.pdf)
 
+[Laboratório de IA Conversacional](./SAMSUNG%20OCEAN%20-%20MAO/samsung-lab-de-ia.pdf)
+
 #### 🖇️ __UFRR__
 
 [Feira de Soluções Setoriais](./UFRR/feira-de-solucoes-setoriais-ufrr.pdf)
