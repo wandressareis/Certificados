@@ -5,6 +5,8 @@
 
 [Residência em TIC - Nivelamento](./BRISA%20-%20SOFTEX%20-%20PREFEITURA%20DE%20BOA%20VISTA/nivelamento-residencia-em-tic.pdf)
 
+[Residência em TIC - Conclusão](./BRISA%20-%20SOFTEX%20-%20PREFEITURA%20DE%20BOA%20VISTA/Certificado%20de%20conclusão%20-%20BRISA%20-%20Residência%20em%20TIC.pdf)
+
 #### 🖇️ __CAMPUS PARTY__
 [Campus Party - 2023](./CAMPUS%20PARTY/Certificado%20Campus%20Party%202023.pdf)
 
