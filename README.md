@@ -5,6 +5,9 @@
 
 [Residência em TIC - Nivelamento](./BRISA%20-%20SOFTEX%20-%20PREFEITURA%20DE%20BOA%20VISTA/nivelamento-residencia-em-tic.pdf)
 
+#### 🖇️ __CAMPUS PARTY__
+[Campus Party - 2023](./CAMPUS%20PARTY/Certificado%20Campus%20Party%202023.pdf)
+
 #### 🖇️ __SAMSUNG OCEAN - AM__ 
 
 [Jornada FullStack - Parte 1](./SAMSUNG%20OCEAN%20-%20MAO/samsung-ocean-jornada-fullstack-parte1.pdf)
